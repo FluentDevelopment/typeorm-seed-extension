@@ -1,5 +1,5 @@
 {
-  "name": "typeorm-seed-extension",
+  "name": "@fluentdevelopment/typeorm-seed-extension",
   "version": "0.0.2",
   "description": "TypeORM seed extensions",
   "main": "cli.js",
@@ -12,7 +12,7 @@
     "typeorm-seed": "./lib/cli.js"
   },
   "engines": {
-    "node": "^8.11.3"
+    "node": ">=8.11.3"
   },
   "dependencies": {
     "chalk": "^2.4.1",
