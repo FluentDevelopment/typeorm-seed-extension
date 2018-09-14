@@ -1,5 +1,5 @@
 {
-  "name": "typeorm-seed-extension",
+  "name": "@fluentdevelopment/typeorm-seed-extension",
   "version": "0.0.3",
   "description": "TypeORM seed extensions",
   "main": "./lib/index.js",
