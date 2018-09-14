@@ -2,7 +2,7 @@
   "name": "typeorm-seed-extension",
   "version": "0.0.3",
   "description": "TypeORM seed extensions",
-  "main": "cli.js",
+  "main": "./lib/index.js",
   "scripts": {
     "build": "yarn lint && yarn clean && tsc && cp package.json ./lib/package.json && cp README.md ./lib/README.md",
     "lint": "tslint -c ./tslint.json ./src/**/*.ts --format stylish",
